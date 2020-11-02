@@ -24,4 +24,4 @@ THEN the saved events persist
 
 ## Deployed App Screenshot
 
-!(https://sagatto.github.io/work-day-scheduler/assets/images/scheduler_ss.png)
+![](/assets/images/scheduler_ss.png)
